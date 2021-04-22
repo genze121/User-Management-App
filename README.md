@@ -72,4 +72,14 @@ Users Management Application Developed using JSP, Servlet, JDBC and MySQL Databa
 
 </h3>
 
+8) <h3> LOGOUT MODULE
+ --- 
+
+<img src="https://user-images.githubusercontent.com/45147588/115699645-73932b00-a383-11eb-8a77-d3799f76fea8.PNG">
+
+</h3>
+
+
+
+
 
