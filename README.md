@@ -2,7 +2,7 @@
 <h1>USERS MANAGEMENT APP SNAPSHOTS</h1>
 
 
-TODO Application Developed using JSP, Servlet, JDBC and MySQL Database.
+Users Management Application Developed using JSP, Servlet, JDBC and MySQL Database.
 
 ## Following features
 - Add Users
