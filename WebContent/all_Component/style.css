@@ -1,0 +1,33 @@
+.navbar .navbar-brand {
+	font-family: galindo;
+	font-size: 25px;
+	text-shadow: 1px 1px 1px black;
+}
+
+.navbar {
+	background: #2426bf;
+}
+
+.navbar .navbar-nav .nav-item {
+	font-family: galindo;
+	font-size: 25px;
+	text-shadow: 1px 1px 1px black;
+}
+
+.navbar .navbar-nav .nav-item:hover .nav-link {
+	background: #a8c60d;
+	border-radius: 10px;
+	color: black;
+}
+
+.footer {
+	left: 0;
+	bottom: 0;
+	position: fixed;
+	width: 100%;
+	background: #0d48c6;
+	padding: 10px;
+	color: white;
+	font-family: galindo;
+	text-shadow: 1px 1px 1px black;
+}
